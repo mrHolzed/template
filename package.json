@@ -1,0 +1,41 @@
+{
+  "name": "work",
+  "version": "1.0.0",
+  "description": "gulp",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-jade": "^1.1.0",
+    "jade": "^1.11.0",
+    "prismic-dom": "^2.1.0",
+    "prismic-javascript": "^2.0.1",
+    "pug": "^2.0.0-beta2"
+  },
+  "devDependencies": {
+    "bourbon": "^4.2.7",
+    "bower": "^1.8.0",
+    "browser-sync": "^2.18.2",
+    "del": "^2.2.2",
+    "express": "^4.14.1",
+    "font-awesome": "^4.7.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-cache": "^0.4.5",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect-php": "0.0.8",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglifyjs": "^0.6.2",
+    "imagemin-pngquant": "^5.0.0",
+    "mysql": "github:mysqljs/mysql",
+    "sass-autoprefixer": "^1.0.1"
+  },
+  "scripts": {
+    "gulp": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
